@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/qantas" mode="merge"/>
+    <filter root="/content/qantas" mode="merge"/>
+    <filter root="/content/dam/qantas/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/qantas" mode="merge"/>
+</workspaceFilter>

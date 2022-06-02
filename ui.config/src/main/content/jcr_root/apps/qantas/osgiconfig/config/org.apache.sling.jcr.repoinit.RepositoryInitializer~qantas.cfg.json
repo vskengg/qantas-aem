@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/qantas",
+        "create path (nt:unstructured) /content/dam/qantas/jcr:content",
+        "set properties on /content/dam/qantas/jcr:content",
+        "set cq:conf{String} to /conf/qantas",
+        "set jcr:title{String} to \"qantas\"",
+        "end"
+    ]
+}
