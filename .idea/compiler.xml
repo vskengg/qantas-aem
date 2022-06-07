@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qantas.core" />
+        <module name="qantas.ui.apps" />
+        <module name="qantas.ui.tests" />
+        <module name="qantas.ui.content" />
+        <module name="qantas.it.tests" />
+        <module name="qantas.all" />
+        <module name="qantas.ui.config" />
+        <module name="qantas.ui.apps.structure" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
